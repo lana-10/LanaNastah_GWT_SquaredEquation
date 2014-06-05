@@ -1,0 +1,2 @@
+serviceClass: lana.client.GreetingService
+path: 38973DA0D53B80265F0258078678644B.gwt.rpc
